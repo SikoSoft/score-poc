@@ -1,0 +1,22 @@
+.score-card {
+  cursor: pointer;
+}
+
+.overview {
+  position: relative;
+}
+
+.points {
+  top: 50%;
+  right: 0;
+  position: absolute;
+  transform: translateY(-50%);
+  text-align: center;
+  display: inline-block;
+  border-radius: 50%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+ul {
+}
